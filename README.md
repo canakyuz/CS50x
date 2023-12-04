@@ -45,3 +45,14 @@ C, Python, SQL, JavaScript, CSS, HTML
  * [ ] [Caesar](https://cs50.harvard.edu/x/2023/psets/2/caesar/)
  * [ ] [Substitution](https://cs50.harvard.edu/x/2023/psets/2/substitution/)
  * [ ] [Wordle50](https://cs50.harvard.edu/x/2023/psets/2/wordle50/)
+
+
+[Week 3 - Algorithms](https://cs50.harvard.edu/x/2023/weeks/3/)
+ * [x] [Plurality](https://cs50.harvard.edu/x/2023/psets/3/plurality/)
+ * [x] [Sort](https://cs50.harvard.edu/x/2023/labs/3/)
+ * [x] [Runoff](https://cs50.harvard.edu/x/2023/psets/3/runoff/)
+ * [ ] [Atoi](https://cs50.harvard.edu/x/2023/problems/3/atoi/)
+ * [ ] [Average High Temperatures](https://cs50.harvard.edu/x/2023/problems/3/temps/)
+ * [ ] [Max](https://cs50.harvard.edu/x/2023/problems/3/max/)
+ * [ ] [Snackbar](https://cs50.harvard.edu/x/2023/problems/3/snackbar/)
+ * [ ] [Tideman](https://cs50.harvard.edu/x/2023/psets/3/tideman/)
