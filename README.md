@@ -30,9 +30,18 @@ C, Python, SQL, JavaScript, CSS, HTML
 
 ## Practice Problems / Labs / Problem Sets
 [Week 1 - C](https://cs50.harvard.edu/x/2023/weeks/1/)
- * [Population Growth](https://cs50.harvard.edu/x/2023/labs/1/)
- * [Hello](https://cs50.harvard.edu/x/2023/psets/1/hello/)
- * [Mario-less](https://cs50.harvard.edu/x/2023/psets/1/mario/less/)
- * [Mario-more](https://cs50.harvard.edu/x/2023/psets/1/mario/more/)
- * [Cash](https://cs50.harvard.edu/x/2023/psets/1/cash/)
- * [Credit](https://cs50.harvard.edu/x/2023/psets/1/credit/)
+ * [x] [Population Growth](https://cs50.harvard.edu/x/2023/labs/1/)
+ * [x] [Hello](https://cs50.harvard.edu/x/2023/psets/1/hello/)
+ * [x] [Mario-less](https://cs50.harvard.edu/x/2023/psets/1/mario/less/)
+ * [x] [Mario-more](https://cs50.harvard.edu/x/2023/psets/1/mario/more/)
+ * [x] [Cash](https://cs50.harvard.edu/x/2023/psets/1/cash/)
+ * [x] [Credit](https://cs50.harvard.edu/x/2023/psets/1/credit/)
+
+
+[Week 2 - Arrays](https://cs50.harvard.edu/x/2023/weeks/2/)
+ * [x] [Scrabble](https://cs50.harvard.edu/x/2023/labs/2/)
+ * [x] [Readability](https://cs50.harvard.edu/x/2023/psets/2/readability/)
+ * [x] [Bulbs](https://cs50.harvard.edu/x/2023/psets/2/bulbs/)
+ * [ ] [Caesar](https://cs50.harvard.edu/x/2023/psets/2/caesar/)
+ * [ ] [Substitution](https://cs50.harvard.edu/x/2023/psets/2/substitution/)
+ * [ ] [Wordle50](https://cs50.harvard.edu/x/2023/psets/2/wordle50/)
