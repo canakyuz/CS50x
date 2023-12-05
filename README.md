@@ -56,3 +56,15 @@ C, Python, SQL, JavaScript, CSS, HTML
  * [ ] [Max](https://cs50.harvard.edu/x/2023/problems/3/max/)
  * [ ] [Snackbar](https://cs50.harvard.edu/x/2023/problems/3/snackbar/)
  * [ ] [Tideman](https://cs50.harvard.edu/x/2023/psets/3/tideman/)
+
+
+[Week 4 - Memory](https://cs50.harvard.edu/x/2023/weeks/4/)
+* [x] [Volume](https://cs50.harvard.edu/x/2023/labs/4/volume/)
+* [x] [Filter-less](https://cs50.harvard.edu/x/2023/psets/4/filter/less/#how-to-submit)
+* [x] [Recover](https://cs50.harvard.edu/x/2023/psets/4/recover/#background)
+* [ ] [Bottom Up](https://cs50.harvard.edu/x/2023/problems/4/bottomup/)
+* [ ] [License](https://cs50.harvard.edu/x/2023/problems/4/license/)
+* [ ] [Smiley](https://cs50.harvard.edu/x/2023/labs/4/smiley/)
+* [ ] [Filter-more](https://cs50.harvard.edu/x/2023/psets/4/filter/more/#a-bitmap-more-technical)
+* [ ] [Reverse](https://cs50.harvard.edu/x/2023/psets/4/reverse/)
+* [ ] 
